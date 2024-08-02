@@ -3,7 +3,7 @@
   "private": false,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/degembaevaTK9/cup-time-react",
+  "homepage": "https://degembaevatk9.github.io/cup-time-react",
   "scripts": {
     "dev": "vite --open",
     "build": "vite build",
